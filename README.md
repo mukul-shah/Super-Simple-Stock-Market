@@ -1,7 +1,7 @@
 # Super-Simple-Stock-Market
 
-#Description
-This project Super-Simple-Stock-Market is build for JP morgan recuirement 
+# Description
+This project is build for JP morgan recruitment 
 
 # Requirements
 Python 3.6+
